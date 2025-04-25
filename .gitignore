@@ -1,0 +1,5 @@
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore large files related to PyTorch
+.venv/Lib/site-packages/torch/lib/torch_cpu.dll
